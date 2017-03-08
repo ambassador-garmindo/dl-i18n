@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danliris/dl-i18n.git"
+    "url": "git+https://github.com/ambassador-garmindo/dl-i18n.git"
   },
   "author": "Moonlay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danliris/dl-i18n/issues"
+    "url": "https://github.com/ambassador-garmindo/dl-i18n/issues"
   },
-  "homepage": "https://github.com/danliris/dl-i18n#readme",
+  "homepage": "https://github.com/ambassador-garmindo/dl-i18n#readme",
   "dependencies": {
     "i18n": "^0.8.3"
   }
